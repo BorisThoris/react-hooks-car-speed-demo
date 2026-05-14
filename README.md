@@ -1,4 +1,4 @@
-# React Hooks Car Speed Demo
+# Pedal Rush
 
 Historical React project built to explore hooks-style state sharing, reducer-driven UI state, and animated browser visuals.
 
